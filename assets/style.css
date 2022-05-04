@@ -3,9 +3,19 @@ body {
 color: #39a6b2;
 font-family: Helvetifca, Arial, sans-serif;
 }
-header {
-    padding-top: 25px 35px 
-    background-color: #39a6b2 
- 
 
+header {
+    padding-top: 25px 35px; 
+    background-color: #39a6b2 
+}
+header h2 {
+    font-weight: bold;
+    font-size: 36px;
+    color: #fce138;
+      margin: 0;
+}
+header a {
+    text-decoration: none;
+    color: #fce138;
+}
 
