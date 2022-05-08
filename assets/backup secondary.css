@@ -1,0 +1,20 @@
+.hero {
+    background-position: bottom;
+    height: auto;
+    text-align: center;
+    margin-bottom: 40px;
+    
+  }
+
+  .page-title {
+      color: #fce138;
+      display: inline-block;
+      
+      border-color: #fce138;
+      border-style: solid;
+      padding: 0px 80px 15px 80px;
+      font-weight: normal;
+      font-size: 42px;
+      font-style: italic;
+     
+  }
